@@ -20,48 +20,76 @@
 
 ### 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-<td><b>Frontend</b></td>
-<td>
+<h3 align="center">🛠️ Tech Stack</h3>
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+<table align="center" width="100%">
 
-</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>
+  <!-- Framework Section -->
+  <tr>
+    <th colspan="3" align="center">🚀 Framework</th>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    </td>
+  </tr>
 
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+  <tr><td colspan="3"><br/></td></tr>
 
-</td>
-</tr>
-<tr>
-<td><b>Database</b></td>
-<td>
+  <!-- Frontend -->
+  <tr>
+    <th colspan="3" align="center">🌐 Frontend</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" /></td>
+    <td></td>
+  </tr>
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+  <tr><td colspan="3"><br/></td></tr>
 
-</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>
+  <!-- Backend -->
+  <tr>
+    <th colspan="3" align="center">🔧 Backend</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></td>
+    <td></td>
+  </tr>
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+  <tr><td colspan="3"><br/></td></tr>
 
-</td>
-</tr>
+  <!-- Database -->
+  <tr>
+    <th colspan="3" align="center">🗄️ Database</th>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr><td colspan="3"><br/></td></tr>
+
+  <!-- Tools -->
+  <tr>
+    <th colspan="3" align="center">⚙️ Tools & Platforms</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" /></td>
+  </tr>
 </table>
+
+
+
 
 ---
 
