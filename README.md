@@ -68,9 +68,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthoroy158&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthoroy158&theme=radical" width="48%" />
+   <img src="https://github-profile-trophy.vercel.app/?username=parthoroy158&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=15" alt="Partho's GitHub Trophies" width="75%"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=parthoroy158&show_icons=true&theme=radical" alt="Partho's GitHub Stats" width="48%"/>
 </div>
+
+
 
 ---
 
