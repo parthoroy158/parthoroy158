@@ -66,7 +66,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parthoroy158&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=parthoroy158&theme=radical" width="48%" />
 </div>
 
 ---
